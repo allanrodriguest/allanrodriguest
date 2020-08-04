@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.redd.it/db4o77qcwy421.jpg">
+<img width="auto" src="https://images-na.ssl-images-amazon.com/images/I/31IWKKcC3+L._SX331_BO1,204,203,200_.jpg">
 
 
 # Allan Rodrigues
