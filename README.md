@@ -25,5 +25,7 @@ I am a curious and a self-taught person, very passionate about technology and pe
 ##
 
 <div>
+  
  ![Snake animation](https://github.com/allanrodriguest/allanrodriguest/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
