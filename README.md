@@ -1,7 +1,7 @@
 # Allan Rodrigues
 
 ## Hello There 👋
-:computer: Computer Programming and Analysis Student.
+
 I am a curious and a self-taught person, very passionate about technology and people who is always looking to learn. :rocket:
 
 ##
